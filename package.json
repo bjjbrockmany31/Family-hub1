@@ -1,0 +1,1 @@
+{"name":"homebase-family-app","version":"2.0.0","private":true,"description":"Mobile-first family hub with private invite links","engines":{"node":">=20"},"scripts":{"start":"node server.js"}}
